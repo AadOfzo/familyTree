@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FamilyTree.iml" filepath="$PROJECT_DIR$/FamilyTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend-java-family-tree.iml" filepath="$PROJECT_DIR$/backend-java-family-tree.iml" />
     </modules>
   </component>
 </project>
